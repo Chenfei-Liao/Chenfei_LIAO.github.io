@@ -18,11 +18,28 @@ I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_bla
 Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in diving, oil painting, and aeromodelling.
 
 
-## Research Interests
-- **Causal Inference and Precision Medicine:** causal subpopulation identification, mediation analysis, personalized recommendation based on treatment effect and generated effect modifiers
-- **Machine Learning:** fairness ML, semi-supervised learning
-- **Manifold Learning and Metric Learning:** positive semi-definite manifold learning and metric learning
-- **Functional Data Analysis:** functional regression, and clustering methods
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div style="flex: 1; min-width: 300px;">
+    <h2>Education</h2>
+    <ul style="list-style: none; padding-left: 0;">
+      <li><i class="fas fa-graduation-cap"></i> <strong>Ph.D. in Statistics</strong>, New York University (2019 - 2024)</li>
+      <li><i class="fas fa-briefcase"></i> <strong>Visiting Student in Statistics</strong>, Columbia University (2023)</li>
+      <li><i class="fas fa-briefcase"></i> <strong>Visiting Student in Applied Mathematics & Statistics</strong>, Johns Hopkins University (2019 - 2020)</li>
+      <li><i class="fas fa-university"></i> <strong>M.S. in Biostatistics and Data Science</strong>, Cornell University (2017 - 2018)</li>
+      <li><i class="fas fa-book"></i> <strong>B.S. in International Finance</strong>, Capital University of Economics and Business (2013 - 2017)</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; min-width: 300px;">
+    <h2>Research Interests</h2>
+    <ul style="list-style: none; padding-left: 0;">
+      <li><strong>Causal Inference and Precision Medicine:</strong> causal subpopulation identification, mediation analysis, personalized recommendation based on treatment effect and generated effect modifiers</li>
+      <li><strong>Machine Learning:</strong> fairness ML, semi-supervised learning</li>
+      <li><strong>Manifold Learning and Metric Learning:</strong> positive semi-definite manifold learning and metric learning</li>
+      <li><strong>Functional Data Analysis:</strong> functional regression, and clustering methods</li>
+    </ul>
+  </div>
+</div>
 
 
 ## Awards
@@ -58,8 +75,4 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 - <a href="https://github.com/Hanchao-Zhang/LeetCode-Prep/blob/main/main.pdf" target="_blank">*A Coding Question Prep*</a> by Hanchao Zhang
 - <a href="https://github.com/Hanchao-Zhang/LeetQuant-Note/blob/main/Prep/Quant%20Research.pdf" target="_blank">*A Quantatitive Research Interview Prep*</a> by Hanchao Zhang
 <!-- https://yuhangzhou88.github.io/ESL_Solution/  -->
-- <a href="https://yuhangzhou88.github.io/ESL_Solution/" target="_blank">*A Solution Manual of The Elements of Statistical Learning*</a> by Yuhang Zhou 
-
-
-
-
+- <a href="https://yuhangzhou88.github.io/ESL_Solution/" target="_blank">*A Solution Manual of The Elements of Statistical Learning*</a> by Yuhang Zhou
