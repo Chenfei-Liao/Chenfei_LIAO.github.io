@@ -22,7 +22,7 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
   <div style="flex: 1; min-width: 300px;">
     <h2>Education</h2>
     <ul style="list-style: none; padding-left: 0;">
-      <li><i class="fas fa-graduation-cap"></i> <strong>Ph.D. in Statistics</strong>, New York University (2019 - 2024)</li>
+      <li><i class="fas fa-graduation-cap"></i> <strong>Ph.D. in Biostatistics</strong>, New York University (2019 - 2024)</li>
       <li><i class="fas fa-briefcase"></i> <strong>Visiting Student in Statistics</strong>, Columbia University (2023)</li>
       <li><i class="fas fa-briefcase"></i> <strong>Visiting Student in Applied Mathematics & Statistics</strong>, Johns Hopkins University (2019 - 2020)</li>
       <li><i class="fas fa-university"></i> <strong>M.S. in Biostatistics and Data Science</strong>, Cornell University (2017 - 2018)</li>
