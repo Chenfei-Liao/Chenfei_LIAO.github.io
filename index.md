@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 <!-- I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Statistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>, -->
-I am a 1st-year MPhil student in AI Thrust at <a href="https://www.hkust-gz.edu.cn/" target="_blank"> the Hong Kong University of Science and Technology, Guangzhou</a> under the supervision of <a href="https://xuminghu.github.io/" target="_blank"> Prof. Xuming HU @ HKUST(GZ)</a> and <a href="https://www.cse.ust.hk/~yqsong/" target="_blank"> Prof. Yangqiu SONG @ HKUST</a>. I completed my undergraduate studies at <a href="https://www.cumtb.edu.cn/" target="_blank"> the China University of Mining and Technology, Beijing</a> with the supervision of <a href="https://scholar.google.cz/citations?user=NKdKU88AAAAJ&hl=zh-CN" target="_blank"> Prof. Kehu YANG @ CUMTB</a>. Currently, I work closely with <a href="https://zhengxujosh.github.io/" target="_blank">Xu ZHENG @ HKUST(GZ)&INSAIT</a>, Jiawen WANG @ CUMTB, and <a href="https://yangkailun.com/" target="_blank"> Prof. Kailun YANG @ HNU</a>. 
+I am a 1st-year MPhil student in AI Thrust at <a href="https://www.hkust-gz.edu.cn/" target="_blank"> the Hong Kong University of Science and Technology, Guangzhou</a> under the supervision of <a href="https://xuminghu.github.io/" target="_blank"> Prof. Xuming HU @ HKUST(GZ)</a> and <a href="https://www.cse.ust.hk/~yqsong/" target="_blank"> Prof. Yangqiu SONG @ HKUST</a>. I completed my undergraduate studies at <a href="https://www.cumtb.edu.cn/" target="_blank"> the China University of Mining and Technology, Beijing</a> with the supervision of <a href="https://scholar.google.cz/citations?user=NKdKU88AAAAJ&hl=zh-CN" target="_blank"> Prof. Kehu YANG @ CUMTB</a>. Currently, I work closely with <a href="https://zhengxujosh.github.io/" target="_blank">Xu ZHENG @ HKUST(GZ) & INSAIT</a>, Jiawen WANG @ CUMTB, and <a href="https://yangkailun.com/" target="_blank"> Prof. Kailun YANG @ HNU</a>. 
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
@@ -37,14 +37,6 @@ I am a 1st-year MPhil student in AI Thrust at <a href="https://www.hkust-gz.edu.
 
 <!-- {% include_relative _includes/publications.md %} -->
 
-{% include_relative _includes/projects.md %}
-
-{% include_relative _includes/talks.md %}
-
-
-
-
-
 
 
 ## News
@@ -55,4 +47,7 @@ I am a 1st-year MPhil student in AI Thrust at <a href="https://www.hkust-gz.edu.
 - **[2024.12]** <a href="https://ieeexplore.ieee.org/abstract/document/10888187" target="_blank">*UMSSS: A Visual Scene Semantic Segmentation Dataset for Underground Mines*</a> has been accepted by the **ICASSP 2025**!
 - **[2024.12]** <a href="https://www.sciencedirect.com/science/article/pii/S0952197624020463" target="_blank">*An Efficient Large Kernel Convolution Network Designed for Neural Processing Unit*</a> has been accepted by the **Engineering Applications of Artificial Intelligence**!
 - **[2024.10]** My Bachelor Thesis has won the Outstanding Bachelor's Thesis in Beijing, China!
+
+{% include_relative _includes/projects.md %}
+
 
