@@ -44,9 +44,7 @@
       <a href="https://arxiv.org/pdf/2503.18445" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/Chenfei-Liao/Multi-Modal-Semantic-Segmentation-Robustness-Benchmark" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
     </div>
-  </div>
-</div>
-</li>
+
 
 <li>
 <div class="pub-row">
