@@ -53,6 +53,45 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICASSP 2025</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10888187">UMSSS: A Visual Scene Semantic Segmentation Dataset for Underground Mines</a></div>
+    <div class="author"><strong>Jiawen Wang, Chenfei Liao, Zhongqi Zhao, Lianghui Li, Xuan Gao, Suna Pan, Fangzhen Shi, Yudong Wang, Weijie Zhou, Kehu Yang</strong></div>
+    <div class="periodical"><em><strong>ICASSP 2025</strong>, Apr. 2025.</em></div>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10888187" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://jarven111.github.io/UMSSS/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">EAAI</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0952197624020463">An Efficient Large Kernel Convolution Network Designed for Neural Processing Unit</a></div>
+    <div class="author"><strong>Jiawen Wang, Chenfei Liao, Dewei Li, Zhongqi Zhao, Jingchuan Chen, Kehu Yang</strong></div>
+    <div class="periodical"><em><strong>Engineering Applications of Artificial Intelligence</strong>, Feb. 2025.</em></div>
+    <div class="links">
+      <a href="https://www.sciencedirect.com/science/article/pii/S0952197624020463" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ArXiv 2025</abbr>
   </div>
 
@@ -88,45 +127,5 @@
 </div>
 </li>
   
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICASSP 2025</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10888187">UMSSS: A Visual Scene Semantic Segmentation Dataset for Underground Mines</a></div>
-    <div class="author"><strong>Jiawen Wang, Chenfei Liao, Zhongqi Zhao, Lianghui Li, Xuan Gao, Suna Pan, Fangzhen Shi, Yudong Wang, Weijie Zhou, Kehu Yang</strong></div>
-    <div class="periodical"><em><strong>ICASSP 2025</strong>, Apr. 2025.</em></div>
-    <div class="links">
-      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10888187" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://jarven111.github.io/UMSSS/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-    </div>
-  </div>
-</div>
-</li>
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">EAAI</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0952197624020463">An Efficient Large Kernel Convolution Network Designed for Neural Processing Unit</a></div>
-    <div class="author"><strong>Jiawen Wang, Chenfei Liao, Dewei Li, Zhongqi Zhao, Jingchuan Chen, Kehu Yang</strong></div>
-    <div class="periodical"><em><strong>Engineering Applications of Artificial Intelligence</strong>, Feb. 2025.</em></div>
-    <div class="links">
-      <a href="https://www.sciencedirect.com/science/article/pii/S0952197624020463" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li>
-
-
   
 <br>
