@@ -29,7 +29,8 @@ I am a 1st-year MPhil student in AI Thrust at <a href="https://www.hkust-gz.edu.
 
 
 ## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
+- **[2021.09]** National Scholarship of China
+- **[2024.10]** Outstanding Bechelor's Thesis in Beijing, China
 
 
 <!-- {% include_relative _includes/publications.md %} -->
