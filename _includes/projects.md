@@ -32,7 +32,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/RBen.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPRW 2025 (Oral)</abbr>
   </div>
 
@@ -52,7 +52,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/UMSSS.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICASSP 2025</abbr>
   </div>
 
@@ -72,7 +72,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/ELCKNet.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">EAAI</abbr>
   </div>
 
@@ -91,7 +91,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/MemorySAM.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ArXiv 2025</abbr>
   </div>
 
@@ -112,7 +112,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/mediation.jpg" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/OmniSAM.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ArXiv 2025</abbr>
   </div>
 
