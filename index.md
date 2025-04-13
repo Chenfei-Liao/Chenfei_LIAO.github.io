@@ -30,8 +30,9 @@ I am a 1st-year MPhil student in AI Thrust at <a href="https://www.hkust-gz.edu.
 
 
 ## Awards
-- **[2021.09]** National Scholarship of China
 - **[2024.10]** Outstanding Bachelor's Thesis in Beijing, China
+- **[2021.09]** National Scholarship of China
+
 
 
 
