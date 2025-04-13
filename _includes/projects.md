@@ -28,6 +28,24 @@
 </div>
 </li> -->
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPRW 2025 (Oral)</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2503.18445">Benchmarking Multi-modal Semantic Segmentation under Sensor Failures: Missing and Noisy Modality Robustness</a></div>
+    <div class="author"><strong>Chenfei Liao*, Kaiyu Lei*, Xu Zheng, Junha Moon, Zhixiong Wang, Yixuan Wang, Danda Pani Paudel, Luc Van Gool, Xuming Hu
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2503.18445" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/Chenfei-Liao/Multi-Modal-Semantic-Segmentation-Robustness-Benchmark" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
+    </div>
+  </div>
+</div>
+</li>
 
 <li>
 <div class="pub-row">
