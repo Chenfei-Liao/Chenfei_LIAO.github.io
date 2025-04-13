@@ -4,9 +4,8 @@ layout: homepage
 
 ## About Me
 
-111
 <!-- I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Statistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>, -->
-I work as a Research Data Scientist at Google, where our team uses statistical methods to analyze complex strategic questions, optimize decision-making, and solve key challenges across the company. Before joining Google, I completed my Ph.D. at at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>,
+I am a 1st-year MPhil student in AI Thrust at The Hong Kong University of Science and Technology, Guangzhou campus. I completed my undergraduate studies at <a href="https://www.cumtb.edu.cn/" target="_blank"> the China University of Science and Technology, Beijing</a>,
 <!-- 's <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a> -->
 <!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
 worked under the mentorship of Prof.<a href="https://scholar.google.com/citations?user=QtyFQVYAAAAJ&hl=en" target="_blank"> Thaddeus Tarpey</a>. My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data. This endeavor confronts two main challenges: first, defining a metric with self-consistent properties to cluster populations into subgroups based on rich and complex tensor data; second, accurately identifying subgroups that closely align with target labels of interest by developing methods like semi-supervised clustering algorithms.
