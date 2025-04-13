@@ -5,39 +5,24 @@ layout: homepage
 ## About Me
 
 <!-- I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Statistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>, -->
-I am a 1st-year MPhil student in AI Thrust at <a href="https://www.hkust-gz.edu.cn/" target="_blank"> the Hong Kong University of Science and Technology, Guangzhou</a> under the supervision of <a href="https://xuminghu.github.io/" target="_blank"> Prof. Xuming HU @ HKUST(GZ)</a> and <a href="https://www.cse.ust.hk/~yqsong/" target="_blank"> Prof. Yangqiu SONG @ HKUST</a>. I completed my undergraduate studies at <a href="https://www.cumtb.edu.cn/" target="_blank"> the China University of Mining and Technology, Beijing</a> with the supervision of <a href="https://scholar.google.cz/citations?user=NKdKU88AAAAJ&hl=zh-CN" target="_blank"> Prof. Kehu YANG @ CUMTB</a>. Currently, I work closely with <a href="https://zhengxujosh.github.io/" target="_blank">Xu ZHENG @ HKUST(GZ)&INSAIT</a>, Jiawen WANG @ CUMTB, <a href="https://yangkailun.com/" target="_blank"> Prof. Kailun YANG @ HNU</a>. 
-
-<!-- 's <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a> -->
-<!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
-worked under the mentorship of Prof.<a href="https://scholar.google.com/citations?user=QtyFQVYAAAAJ&hl=en" target="_blank"> Thaddeus Tarpey</a>. My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data. This endeavor confronts two main challenges: first, defining a metric with self-consistent properties to cluster populations into subgroups based on rich and complex tensor data; second, accurately identifying subgroups that closely align with target labels of interest by developing methods like semi-supervised clustering algorithms.
-<!-- In the summer of 2022, I had the opportunity to work as a Research Data Scientist Intern at <a href="https://about.google" target="_blank"> Google</a>, where I applied my statistical skills to real-world problems.  -->
-Prior to joining the Ph.D. program, I completed my master's degree in Biostatistics and Data Science from <a href="https://www.cornell.edu" target = "_blank"> Cornell University</a> advised by Prof. <a href= "https://www.idiaz.xyz" target = "_blank"> Iván Díaz</a>.
-<!-- and my bachelor's degree in International Finance from <a href="https://www.cueb.edu.cn" target = "_blank"> Capital University of Economics and Business</a>.  -->
-<!-- 
-I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
-
-Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in diving, oil painting, and aeromodelling.
+I am a 1st-year MPhil student in AI Thrust at <a href="https://www.hkust-gz.edu.cn/" target="_blank"> the Hong Kong University of Science and Technology, Guangzhou</a> under the supervision of <a href="https://xuminghu.github.io/" target="_blank"> Prof. Xuming HU @ HKUST(GZ)</a> and <a href="https://www.cse.ust.hk/~yqsong/" target="_blank"> Prof. Yangqiu SONG @ HKUST</a>. I completed my undergraduate studies at <a href="https://www.cumtb.edu.cn/" target="_blank"> the China University of Mining and Technology, Beijing</a> with the supervision of <a href="https://scholar.google.cz/citations?user=NKdKU88AAAAJ&hl=zh-CN" target="_blank"> Prof. Kehu YANG @ CUMTB</a>. Currently, I work closely with <a href="https://zhengxujosh.github.io/" target="_blank">Xu ZHENG @ HKUST(GZ)&INSAIT</a>, Jiawen WANG @ CUMTB, and <a href="https://yangkailun.com/" target="_blank"> Prof. Kailun YANG @ HNU</a>. 
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="flex: 1; min-width: 300px;">
     <h2>Education</h2>
     <ul style="list-style: none; padding-left: 0;">
-      <li><i class="fas fa-graduation-cap"></i> <strong>Ph.D. in Biostatistics</strong>, New York University (2019 - 2024)</li>
-      <li><i class="fas fa-briefcase"></i> <strong>Visiting Student in Statistics</strong>, Columbia University (2023)</li>
-      <li><i class="fas fa-briefcase"></i> <strong>Visiting Student in Applied Mathematics & Statistics</strong>, Johns Hopkins University (2019 - 2020)</li>
-      <li><i class="fas fa-university"></i> <strong>M.S. in Biostatistics and Data Science</strong>, Cornell University (2017 - 2018)</li>
-      <li><i class="fas fa-book"></i> <strong>B.S. in International Finance</strong>, Capital University of Economics and Business (2013 - 2017)</li>
+      <li><i class="fas fa-graduation-cap"></i> <strong>MPhil in Artificial Intelligence</strong>, the Hong Kong University of Science and Technology, Guangzhou (2024 - 2026)</li>
+      <li><i class="fas fa-graduation-cap"></i> <strong>Bachelor in Information Engineering</strong>, the China University of Mining and Technology, Beijing (2020 - 2024)</li>
     </ul>
   </div>
 
   <div style="flex: 1; min-width: 300px;">
     <h2>Research Interests</h2>
     <ul style="list-style: none; padding-left: 0;">
-      <li><strong>Causal Inference and Precision Medicine:</strong> causal subpopulation identification, mediation analysis, personalized recommendation based on treatment effect and generated effect modifiers</li>
-      <li><strong>Machine Learning:</strong> fairness ML, semi-supervised learning</li>
-      <li><strong>Manifold Learning and Metric Learning:</strong> positive semi-definite manifold learning and metric learning</li>
-      <li><strong>Functional Data Analysis:</strong> functional regression, and clustering methods</li>
+      <li><strong>Multi-modal Large Language Model:</strong> balanced MLLM</li>
+      <li><strong>Multi-modal Perception:</strong>  multi-modal semantic segmentation, multi-modal robustness</li>
+      <li><strong>Underground Mine Perception:</strong> semantic segmentation, object detection, key point detection</li>
     </ul>
   </div>
 </div>
