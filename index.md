@@ -4,6 +4,7 @@ layout: homepage
 
 ## About Me
 
+111
 <!-- I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Statistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>, -->
 I work as a Research Data Scientist at Google, where our team uses statistical methods to analyze complex strategic questions, optimize decision-making, and solve key challenges across the company. Before joining Google, I completed my Ph.D. at at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>,
 <!-- 's <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a> -->
