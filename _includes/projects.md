@@ -42,10 +42,9 @@
     <div class="author"><strong>Chenfei Liao, Xu Zheng, Yuanhuiyi Lyu, Haiwei Xue, Yihong Cao, Jiawen Wang, Kailun Yang, Xuming Hu</strong></div>
     <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Mar. 2025.</em></div>
     <div class="links">
-    </div>
       <a href="https://arxiv.org/pdf/2503.06700?" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/Chenfei-Liao/MemorySAM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a>
-      <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
+    </div>
   </div>
 </div>
 </li>
