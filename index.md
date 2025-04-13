@@ -30,7 +30,7 @@ I am a 1st-year MPhil student in AI Thrust at <a href="https://www.hkust-gz.edu.
 
 ## Awards
 - **[2021.09]** National Scholarship of China
-- **[2024.10]** Outstanding Bachelor's Thesis</a> in Beijing, China
+- **[2024.10]** Outstanding Bachelor's Thesis in Beijing, China
 
 ## Services
 - Reviewer of: @CVPRWorkshop (TMM-OpenWorld) 2025, @Journal of Breath Research
@@ -50,4 +50,4 @@ I am a 1st-year MPhil student in AI Thrust at <a href="https://www.hkust-gz.edu.
 
 {% include_relative _includes/projects.md %}
 
-
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=zrl7WjzBxF_qKC05N5OneNhjFigQ9jPab4GJHSWvjkI&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
