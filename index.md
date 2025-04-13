@@ -30,8 +30,10 @@ I am a 1st-year MPhil student in AI Thrust at <a href="https://www.hkust-gz.edu.
 
 ## Awards
 - **[2021.09]** National Scholarship of China
-- **[2024.10]** Outstanding Bechelor's Thesis in Beijing, China
+- **[2024.10]** Outstanding Bachelor's Thesis</a> in Beijing, China
 
+## Services
+- Reviewer of: @CVPRWorkshop (TMM-OpenWorld) 2025, @Journal of Breath Research
 
 <!-- {% include_relative _includes/publications.md %} -->
 
@@ -45,21 +47,12 @@ I am a 1st-year MPhil student in AI Thrust at <a href="https://www.hkust-gz.edu.
 
 
 
-## Collaboration
-
+## News
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019. -->
-- **[Feb. 2023]** <a href="https://www.sciencedirect.com/science/article/pii/S089990072200346X" target="_blank">*Low muscle mass is associated with a higher risk of all–cause and cardiovascular disease–specific mortality in cancer survivors*</a> has been accepted by **Nutrition**. 
-- **[Aug. 2021]** <a href="https://www.jmcp.org/doi/full/10.18553/jmcp.2021.27.10.1482" target="_blank">*Validation of EHR medication fill data obtained through electronic linkage with pharmacies*</a> has been accepted by the **Journal of Managed Care & Specialty Pharmacy**.
-- **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**.
+- **[2025.04]** <a href="https://arxiv.org/abs/2503.18445" target="_blank">*Benchmarking Multi-modal Semantic Segmentation under Sensor Failures: Missing and Noisy Modality Robustness*</a> has been accepted by the **CVPRWorkshop (TMM-OpenWorld) 2025** as an **oral presentation paper** (top 6 papers)!
+- **[2024.12]** <a href="https://ieeexplore.ieee.org/abstract/document/10888187" target="_blank">*UMSSS: A Visual Scene Semantic Segmentation Dataset for Underground Mines*</a> has been accepted by the **ICASSP 2025**!
+- **[2024.12]** <a href="https://www.sciencedirect.com/science/article/pii/S0952197624020463" target="_blank">*An Efficient Large Kernel Convolution Network Designed for Neural Processing Unit*</a> has been accepted by the **Engineering Applications of Artificial Intelligence**!
+- **[2024.10]** My Bachelor Thesis has won the Outstanding Bachelor's Thesis in Beijing, China!
 
-
-{% include_relative _includes/services.md %}
-
-
-## Resources
-- <a href="https://github.com/Hanchao-Zhang/LeetCode-Prep/blob/main/main.pdf" target="_blank">*A Coding Question Prep*</a> by Hanchao Zhang
-- <a href="https://github.com/Hanchao-Zhang/LeetQuant-Note/blob/main/Prep/Quant%20Research.pdf" target="_blank">*A Quantatitive Research Interview Prep*</a> by Hanchao Zhang
-<!-- https://yuhangzhou88.github.io/ESL_Solution/  -->
-- <a href="https://yuhangzhou88.github.io/ESL_Solution/" target="_blank">*A Solution Manual of The Elements of Statistical Learning*</a> by Yuhang Zhou
