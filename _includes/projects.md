@@ -32,6 +32,25 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/OmniSAM.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICCV 2025</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2503.07098">OmniSAM: Omnidirectional Segment Anything Model for UDA in Panoramic Semantic Segmentation</a></div>
+    <div class="author"><strong>Ding Zhong*, Xu Zheng*, Chenfei Liao, Yuanhuiyi Lyu, Jialei Chen, Shengyang Wu, Linfeng Zhang, Xuming Hu</strong></div>
+    <div class="periodical"><em><strong>ICCV</strong>, Oct. 2025.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2503.07098" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/RBen.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPRW 2025 (Oral)</abbr>
   </div>
@@ -107,25 +126,6 @@
 </div>
 </li>
 
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/OmniSAM.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICCV 2025</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2503.07098">OmniSAM: Omnidirectional Segment Anything Model for UDA in Panoramic Semantic Segmentation</a></div>
-    <div class="author"><strong>Ding Zhong*, Xu Zheng*, Chenfei Liao, Yuanhuiyi Lyu, Jialei Chen, Shengyang Wu, Linfeng Zhang, Xuming Hu</strong></div>
-    <div class="periodical"><em><strong>ICCV</strong>, Oct. 2025.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2503.07098" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-</li>
   
   
 <br>
