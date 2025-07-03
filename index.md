@@ -37,13 +37,13 @@ I am a 1st-year MPhil student in AI Thrust at <a href="https://www.hkust-gz.edu.
 
 
 ## Services
-- Reviewer of: @CVPRWorkshop (TMM-OpenWorld) 2025, @Journal of Breath Research
+- Reviewer of: @ CVPR Workshop (TMM-OpenWorld) 2025, @ ICCV Workshop (MIRA) 2025
 
 
 ## News
 - **[2025.06]** <a href="https://arxiv.org/abs/2503.07098" target="_blank">*OmniSAM: Omnidirectional Segment Anything Model for UDA in Panoramic Semantic Segmentation*</a> has been accepted by the **ICCV 2025**!
-- **[2025.06]** <a href="https://arxiv.org/abs/2503.18445" target="_blank">*Benchmarking Multi-modal Semantic Segmentation under Sensor Failures: Missing and Noisy Modality Robustness*</a> has won the **Best Paper Award** in **CVPRWorkshop (TMM-OpenWorld) 2025** (top 1 papers)!
-- **[2025.04]** <a href="https://arxiv.org/abs/2503.18445" target="_blank">*Benchmarking Multi-modal Semantic Segmentation under Sensor Failures: Missing and Noisy Modality Robustness*</a> has been accepted by the **CVPRWorkshop (TMM-OpenWorld) 2025** as an **Oral Presentation Paper** (top 6 papers)!
+- **[2025.06]** <a href="https://arxiv.org/abs/2503.18445" target="_blank">*Benchmarking Multi-modal Semantic Segmentation under Sensor Failures: Missing and Noisy Modality Robustness*</a> has won the **Best Paper Award** in **CVPR Workshop (TMM-OpenWorld) 2025** (top 1 papers)!
+- **[2025.04]** <a href="https://arxiv.org/abs/2503.18445" target="_blank">*Benchmarking Multi-modal Semantic Segmentation under Sensor Failures: Missing and Noisy Modality Robustness*</a> has been accepted by the **CVPR Workshop (TMM-OpenWorld) 2025** as an **Oral Presentation Paper** (top 6 papers)!
 - **[2024.12]** <a href="https://ieeexplore.ieee.org/abstract/document/10888187" target="_blank">*UMSSS: A Visual Scene Semantic Segmentation Dataset for Underground Mines*</a> has been accepted by the **ICASSP 2025**!
 - **[2024.12]** <a href="https://www.sciencedirect.com/science/article/pii/S0952197624020463" target="_blank">*An Efficient Large Kernel Convolution Network Designed for Neural Processing Unit*</a> has been accepted by the **Engineering Applications of Artificial Intelligence**!
 - **[2024.10]** My Bachelor Thesis has won the Outstanding Bachelor's Thesis in Beijing, China!
